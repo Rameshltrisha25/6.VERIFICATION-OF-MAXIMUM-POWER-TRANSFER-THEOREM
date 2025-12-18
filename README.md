@@ -1,5 +1,9 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
 
+NAME: THIRISHA S
+
+REG NO: 25018594
+
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
@@ -25,6 +29,18 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (22)](https://github.com/user-attachments/assets/51914175-6770-4d17-9dff-c6e3757a3b90)
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (23)](https://github.com/user-attachments/assets/5f550c28-9ac9-44fd-aab1-1940ae1575c7)
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (25)](https://github.com/user-attachments/assets/df99bf90-efe1-4baf-addd-b846926f04ca)
+
+![WhatsApp Image 2025-12-18 at 9 35 23 AM (27)](https://github.com/user-attachments/assets/9633b020-a2cf-4bd8-bbc5-66b9b9fe832d)
+
+
+
+
 
 
 **MODEL GRAPH:**
